@@ -15,5 +15,5 @@ I am pursuing a degree in Electrical Engineering. I am hoping to graduate by 202
 
 *Lab #5: Area of Rectangle
 
-    Very similar to lab four, I enjoyed this one due to the fact that it was very math heavy. The added challenege of going into canvas to find the proper code that needs to be used was fun and caused this lab to stand out in my opinion.
+    Very similar to lab four, I enjoyed this one due to the fact that it was very math heavy. The added challenege of going into canvas to find the proper code that needs to be used was fun and caused this lab to stand out in my opinion. Using Static cast was difficult and it was a good way to reinforce using your resources lie the C++ Website. 
 
